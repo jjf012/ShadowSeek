@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "ShadowSeek JS Scanner",
-  "version": "0.1.0",
+  "version": "1.0.5",
   "description": "扫描页面与远程 JS，提取疑似敏感信息并存储在 IndexedDB。",
   "action": {
     "default_title": "ShadowSeek 扫描",
